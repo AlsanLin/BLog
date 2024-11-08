@@ -1,0 +1,3 @@
+本地启动
+进入E:\PersonalRes目录执行如下命令，启动Blog本地环境
+docsify serve "L3's Blog"

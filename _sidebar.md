@@ -3,6 +3,8 @@
 
 * [Android相关](/Android/README.md)
   * [快速开始](/Android/环境搭建.md) <!--注意这里是相对路径-->
+  * 问题集锦
+	* [1. 查看签名MD5](/Android/Android签名无法查看MD5.md)
 * [Flutter相关](/Flutter/README.md)
   * [快速开始](/Flutter/环境搭建.md) <!--注意这里是相对路径-->
 * [HarmonyOS相关](/HarmonyOS/README.md)
