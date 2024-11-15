@@ -11,6 +11,8 @@
 	* [算法](/算法/README.md)
 	* [优秀项目](/github/README.md)-->
 * 文章推荐
+  * [音视频入门](https://github.com/ChenLittlePing/LearningVideo)	
+  * [IOS内购](https://juejin.cn/post/7046969127205863438)
 
 * 优秀网站
   * [简道云](https://www.jiandaoyun.com/index/solution_center/cate?industry=it)
