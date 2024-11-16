@@ -7,7 +7,9 @@
   * 问题集锦
 	* [1. 查看签名MD5](/Android/Android签名无法查看MD5.md)
 * Flutter相关
-  * [快速开始](/Flutter/环境搭建.md) <!--注意这里是相对路径-->
+  * [快速开始](/Flutter/环境搭建.md) 
+  * [Flutter国际化](/Flutter/Flutter国际化.md) 
+  * [问题集锦](/Flutter/问题集锦.md)
 * HarmonyOS相关
   * [快速开始](/HarmonyOS/环境搭建.md) <!--注意这里是相对路径-->
 * IOS相关
