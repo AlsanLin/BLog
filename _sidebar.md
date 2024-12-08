@@ -2,10 +2,12 @@
 <!-- _sidebar.md -->
 
 * Android相关
-  * [快速开始](/Android/环境搭建.md) <!--注意这里是相对路径-->
+  * [快速开始](/Android/环境搭建.md) 
+  * [应用上架](/Android/应用上架.md) 
   * [权限详解](/Android/动态权限详解.md)
   * 问题集锦
 	* [1. 查看签名MD5](/Android/Android签名无法查看MD5.md)
+	* [2. 编译问题](/Android/编译问题.md)
 * Flutter相关
   * [快速开始](/Flutter/环境搭建.md) 
   * [Flutter国际化](/Flutter/Flutter国际化.md) 
