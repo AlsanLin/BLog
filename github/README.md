@@ -41,6 +41,7 @@
 
 ### 开源系统
 1. [ruoyi开源](https://github.com/YunaiV/ruoyi-vue-pro)：项目可以是商城、SCRM 系统、OA 系统、物流系统、ERP 系统、CMS 系统、HIS 系统、支付系统、IM 聊天、微信公众号、微信小程序等等
+2. [微信开发 Java SDK](https://github.com/binarywang/WxJava) 支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
 
 ### 学习进阶项目
 1. [移动架构师学习路线](https://github.com/Timdk857/Android-Architecture-knowledge-2-)
