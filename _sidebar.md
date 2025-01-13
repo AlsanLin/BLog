@@ -11,10 +11,12 @@
 * Flutter相关
   * [快速开始](/Flutter/环境搭建.md) 
   * [Flutter国际化](/Flutter/Flutter国际化.md) 
+  * [状态管理-GetX](/Flutter/状态管理-GetX.md) 
   * [问题集锦](/Flutter/问题集锦.md)
 * HarmonyOS相关
   * [快速开始](/HarmonyOS/环境搭建.md)
   * [Stage模型](/HarmonyOS/Stage模型.md) 
+  * [UI组件](/HarmonyOS/UI组件介绍.md) 
 * IOS相关
   * [快速开始](/IOS/环境搭建.md) <!--注意这里是相对路径-->
 * H5/小程序
